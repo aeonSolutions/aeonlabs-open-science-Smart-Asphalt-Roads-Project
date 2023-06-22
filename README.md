@@ -46,7 +46,7 @@ To continue reading about this project go [here](https://github.com/aeonSolution
 
 The experimental data is hosted at the University of Harvard's data repository, dataverse. More info about it can be found [here](http://www.dataverse.org).
 
-| <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/dataverse_r_project.png" width="250"> | soon. |
+| <img src="https://github.com/aeonSolutions/Open-Scientific-Research/blob/main/media/dataverse_r_project.png" width="250"> | [https://dataverse.harvard.edu/dataverse/SmartAsphaltRoadsProject](https://dataverse.harvard.edu/dataverse/SmartAsphaltRoadsProject) |
 |-------------|:------|
 
 
@@ -60,7 +60,7 @@ The experimental data is hosted at the University of Harvard's data repository, 
 
 **Suport**
 
-If you like this project please consider supporting it. Links at the top, bottom and right side pane. Thank you.
+If you like this project please consider supporting it. Links at the top, bottom, and right side pane. Thank you.
 
 <br />
 <br />
