@@ -27,11 +27,9 @@ I've started preliminary work on my future project in the area of "self-sensing 
 <br>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=RYb2yxGig3E">
-    <img src="https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/blob/main/concept%20prototypes/concept%20prototype%20mockup%20with%20a%20UHF%20RFID%20noted%20tag.jpg"  width="65%">
-
-  </a>
-
+    <img src="https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/blob/main/concept%20prototypes/concept%20prototype%20mockup%20with%20a%20UHF%20RFID%20noted%20tag.jpg"  width="40%">
+    <img src="https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/blob/main/concept%20prototypes/smart%20asphalt%20roas%20concept%20prototype%20with%20a%204%20wheel%20car%20and%20a%20doodle.jpg"  width="40%">
+    
   <br>
   A piece of regular asphalt road for a concept prototype of a smart road
 </p>
