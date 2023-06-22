@@ -13,7 +13,7 @@
 [<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" data-canonical-src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="30" />](https://www.buymeacoffee.com/migueltomas)
 
 <p align="center">
-   <img src="https://github.com/aeonSolutions/aeonlabs-open-science-rammed_earth_project/blob/main/media/rammed_earth_banner.png" height="300">
+   <img src="https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/blob/main/media/smart_asphalt_road_project.jpg" height="300">
 </p>
 
 [Open Science Research Projects](https://github.com/aeonSolutions/Open-Scientific-Research) >>  Rammed Earth Project
