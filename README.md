@@ -22,7 +22,7 @@
 
 # Smart Asphalt Roads Project
 
-I've started preliminary work on my future project in the area of "self-sensing asphalt" for smart roads and highways. The very first task is to understand embedded wireless radio transmission into the surface of the asphalt road itself. 
+I've started preliminary work on my future project in the area of "self-sensing asphalt" for smart roads and highways. The very first task is to understand embedded wireless radio transmission into the surface of the asphalt road itself. To continue reading about this project go [here](https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/wiki). 
 
 <br>
 
@@ -36,7 +36,7 @@ I've started preliminary work on my future project in the area of "self-sensing 
 
 <br>
 
-To continue reading about this project go [here](https://github.com/aeonSolutions/aeonlabs-open-science-Smart-Asphalt-Roads-Project/wiki).
+This project is scheduled to resume next month of December, 2023.
 
 <br>
 
